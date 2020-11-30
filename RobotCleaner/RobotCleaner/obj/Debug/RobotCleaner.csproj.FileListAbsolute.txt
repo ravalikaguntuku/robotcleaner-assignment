@@ -1,0 +1,6 @@
+C:\Users\ernugva\Desktop\New folder (4)\RobotCleaner\RobotCleaner\bin\Debug\RobotCleaner.exe.config
+C:\Users\ernugva\Desktop\New folder (4)\RobotCleaner\RobotCleaner\bin\Debug\RobotCleaner.exe
+C:\Users\ernugva\Desktop\New folder (4)\RobotCleaner\RobotCleaner\bin\Debug\RobotCleaner.pdb
+C:\Users\ernugva\Desktop\New folder (4)\RobotCleaner\RobotCleaner\obj\Debug\RobotCleaner.csprojAssemblyReference.cache
+C:\Users\ernugva\Desktop\New folder (4)\RobotCleaner\RobotCleaner\obj\Debug\RobotCleaner.exe
+C:\Users\ernugva\Desktop\New folder (4)\RobotCleaner\RobotCleaner\obj\Debug\RobotCleaner.pdb
